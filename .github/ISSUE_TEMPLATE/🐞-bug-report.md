@@ -1,3 +1,12 @@
+---
+name: "\U0001F41E Bug Report"
+about: Report a bug or unexpected behavior
+title: "[BUG]"
+labels: bug
+assignees: cyrussamante
+
+---
+
 ## 🐞 Bug Report
 
 ### **Describe the Bug**

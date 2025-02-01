@@ -1,3 +1,12 @@
+---
+name: "\U0001F6A8 Hotfix"
+about: Fix an urgent issue in production
+title: "[HOTFIX]"
+labels: hotfix
+assignees: cyrussamante
+
+---
+
 ## 🚨 Hotfix Needed
 
 ### **Describe the Critical Issue**

@@ -1,3 +1,12 @@
+---
+name: "\U0001F527 Enhancement Request"
+about: Suggest an improvement to an existing feature
+title: "[ENHANCE]"
+labels: enhancement
+assignees: cyrussamante
+
+---
+
 ## 🔧 Enhancement Request
 
 ### **Describe the Enhancement**

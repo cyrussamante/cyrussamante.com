@@ -1,3 +1,12 @@
+---
+name: "\U0001F4DD Documentation Update"
+about: Request an update or addition to the documentation
+title: "[DOCS]"
+labels: documentation
+assignees: cyrussamante
+
+---
+
 ## 📝 Documentation Update
 
 ### **What needs to be updated?**
